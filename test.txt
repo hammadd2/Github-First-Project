@@ -5,3 +5,7 @@ test4
 test5
 test6
 test7
+
+adding some feature test:
+1. feature test 1
+2. feature test 2
